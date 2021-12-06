@@ -1,0 +1,90 @@
+.str_view ul {
+  font-size: 16px;
+}
+
+.str_view ul, .str_view li {
+  list-style: none;
+  padding: 0;
+  margin: 0.5em 0;
+}
+
+.str_view .col1 {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  border-color: #ccc;
+  border-radius: 3px;
+}
+
+.str_view .col2 {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  border-color: #ccc;
+  border-radius: 3px;
+}
+
+.str_view .col3 {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  border-color: #ccc;
+  border-radius: 3px;
+}
+
+.str_view .col4 {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  border-color: #ccc;
+  border-radius: 3px;
+}
+
+.str_view .col5 {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  border-color: #ccc;
+  border-radius: 3px;
+}
+
+.str_view .col6 {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  border-color: #ccc;
+  border-radius: 3px;
+}
+
+.str_view .col7 {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  border-color: #ccc;
+  border-radius: 3px;
+}
+
+.str_view .col8 {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  border-color: #ccc;
+  border-radius: 3px;
+}
+
+.str_view .col9 {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  border-color: #ccc;
+  border-radius: 3px;
+}
+
+.str_view .col10 {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  border-color: #ccc;
+  border-radius: 3px;
+}
+
+.str_view .match {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  border-color: #ccc;
+  border-radius: 3px;
+}
+
+.str_view .special {
+  background-color: red;
+}
